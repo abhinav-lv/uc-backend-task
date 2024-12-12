@@ -4,7 +4,7 @@
 
 1. Create a python environment and install dependencies:
 
-   ```python
+   ```bash
    pip install -r requirements.txt
    ```
 
