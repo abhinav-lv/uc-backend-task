@@ -22,7 +22,7 @@
 
 1. <b>http://127.0.0.1:5000/api/total_emissions</b>
 
-   This is the endpoint which process the request without any optimisations - no cache is used, and no database is used.
+   This is the endpoint which processes the request without any optimisations - no cache is used, and no database is used.
 
 2. <b>http://127.0.0.1:5000/api/total_emissions_with_cache</b>
 
