@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+
+.~lock.uc_results_gf.csv#
